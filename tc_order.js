@@ -17,5 +17,11 @@
    
 */
 
+var item = [ 10582, 23015, 41807, 10041];
 
+var itemDescription = [" 1975 Green Bay Packers Football (signed)", " Tom Landry 1955 Football Card (unsigned)", "1916 Army-Navy Game, Framed Photo (signed)", "Protective Card Sheets"]; 
+
+var itemPrice = [ 149.93, 89.98, 334.93, 22.67];
+
+var itemQty = [1, 1, 1, 4]; 
 

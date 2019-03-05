@@ -17,12 +17,14 @@
    
 */
 
-// 
+// Created an array variable named item that will contain integers. 
 var item = [ 10582, 23015, 41807, 10041];
 
+// Created an array variable named itemDesciption containing the strings of the different cards.
 var itemDescription = [" 1975 Green Bay Packers Football (signed)", " Tom Landry 1955 Football Card (unsigned)", "1916 Army-Navy Game, Framed Photo (signed)", "Protective Card Sheets"]; 
 
+// Created an array named itemPrice that contains the integers below. 
 var itemPrice = [ 149.93, 89.98, 334.93, 22.67];
-
+// Created an array for the item Quantities containing integers. 
 var itemQty = [1, 1, 1, 4]; 
 
